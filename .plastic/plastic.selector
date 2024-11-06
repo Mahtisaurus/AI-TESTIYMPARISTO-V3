@@ -1,0 +1,4 @@
+repository "AI TESTIYMPÄRISTÖ@Mahtisaurus@cloud"
+  path "/"
+    br "/main"
+    co "/main"
